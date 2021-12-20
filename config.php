@@ -1,6 +1,6 @@
 <?php
 
-$db_host = "52.77.230.73";
+$db_host = "172.31.28.251";
 $db_user = "devopscilsy";
 $db_pass = "1234567890";
 $db_name = "dbsosmed";
